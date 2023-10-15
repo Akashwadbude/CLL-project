@@ -5,7 +5,7 @@ name = input("What is your name? ")
 print(f"Hello Mr. , {name}!")
 
 # Get the user's age
-age = int(input("How old are you? "))
+age = int(input("What is your age? "))
 
 # Check if the user is of legal drinking age
 if age >= 21:
